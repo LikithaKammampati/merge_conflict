@@ -1,2 +1,2 @@
 sample 1
-samle 5
+sample 3
